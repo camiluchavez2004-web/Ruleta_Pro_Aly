@@ -2,7 +2,7 @@ name: Build APK
 
 on:
   push:
-    branches: [ "principal", "main" ]
+    branches: [ "main", "principal" ]
 
 jobs:
   build:
